@@ -11,7 +11,7 @@ The program reads up to multiple game instances from standard input and determin
 
 * **C (C99) + POSIX**
 * **CMake** (for compilation)  
-* **tests-cut**
+* **tests-cut** (testing)
 ---
 
 ## Project Structure
