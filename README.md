@@ -10,6 +10,7 @@ The program reads up to multiple game instances from standard input and determin
 ## Languages and Tools
 
 * **C (C99) + POSIX**
+* **CMake** (for compilation)  
 * **tests-cut**
 ---
 
